@@ -1,4 +1,5 @@
 ## Hi there 👋
+![hannah's headshots](assets/Hannah's_headshot.jpg)
 
 <!--
 **hannahlulu888/hannahlulu888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
